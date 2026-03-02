@@ -1,13 +1,13 @@
 @font-face {
   font-family: W95FA;
   src: url(fonts/W95FA.otf) format('opentype');
-  /*font-weight: default;*/
 }
 
 body {
   background-color: #320016;
 }
 h1 {
+  padding-top: 32px;
   text-align: center;
   color: #FFFFFF;
   font-family: W95FA
