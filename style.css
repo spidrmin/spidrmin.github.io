@@ -3,9 +3,13 @@
   src: url(fonts/W95FA.otf) format('opentype');
 }
 
+
+
 body {
   background-color: #1b000b;
 }
+
+
 
 h1 {
   padding-top: 16px;
@@ -22,4 +26,18 @@ h2 {
 p {
   color: #FFFFFF;
   font-family: W95FA
+}
+
+
+
+a:link {
+  color: #69aaee;
+}
+
+a:visited {
+  color: #aa87ee;
+}
+
+a:active {
+  color: #ba0000;
 }
