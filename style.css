@@ -3,20 +3,16 @@
   src: url(fonts/W95FA.otf) format('opentype');
 }
 
+html * {
+  color: #FFFFFF;
+  font-family: W95FA
+}
+
 body {
   background-color: ##1b000b;
 }
+
 h1 {
   padding-top: 16px;
   text-align: center;
-  color: #FFFFFF;
-  font-family: W95FA
-}
-h2 {
-  color: #FFFFFF;
-  font-family: W95FA
-}
-p {
-  color: #FFFFFF;
-  font-family: W95FA
 }
