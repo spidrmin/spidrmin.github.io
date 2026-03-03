@@ -4,35 +4,25 @@
 }
 
 html {
-  color: white;
-  font-family: W95FA;
-  padding: 10%
+	color: white;
+	font-family: W95FA;
+	padding:16px 10%;
+	background-color: #1b000b;
 }
-
-body {
-  background-color: #1b000b;
-	border-style: solid;
-	padding: 8%;
-}
-
-
-body.
-
 
 h1 {
-  padding-top: 16px;
-  text-align: center;
+    text-align: center;
 }
 
 
 a:link {
-  color: #69aaee;
+    color: #69aaee;
 }
 
 a:visited {
-  color: #aa87ee;
+    color: #aa87ee;
 }
 
 a:active {
-  color: #ba0000;
+    color: #ba0000;
 }
