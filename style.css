@@ -5,11 +5,19 @@
 
 body {
   background-color: ##1b000b;
-  color: #FFFFFF;
-  font-family: W95FA
 }
 
 h1 {
   padding-top: 16px;
   text-align: center;
+}
+
+h2 {
+  color: #FFFFFF;
+  font-family: W95FA
+}
+
+p {
+  color: #FFFFFF;
+  font-family: W95FA
 }
