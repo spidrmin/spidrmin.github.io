@@ -1,4 +1,2 @@
-# mindeez.github.io
-nutslmao
-
-web sight
+# spidrmin.github.io
+website!
