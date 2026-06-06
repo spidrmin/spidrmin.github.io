@@ -52,3 +52,9 @@ a:hover {
 a:active {
     color: #ba0000;
 }
+
+.sixty-sixteen-nine {
+  width: 60%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
